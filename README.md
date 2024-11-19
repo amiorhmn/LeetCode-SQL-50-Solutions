@@ -3,7 +3,7 @@ This repository contains my solutions to the problems in [SQL 50 Study Plan of L
 
 | # | Title | Solution | Subtopic | Difficulty |
 |---| ----- | -------- | -------- | ---------- |
-|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./1757_20Recyclable_and_Low_Fat_Products.sql)|Select|Easy|
+|1757|[Recyclable and Low Fat Products](https://leetcode.com/problems/recyclable-and-low-fat-products/)|[MySQL](./1757_Recyclable_and_Low_Fat_Products.sql)|Select|Easy|
 |584|[Find Customer Referee](https://leetcode.com/problems/find-customer-referee/)|[MySQL](./584_Find_Customer_Referee.sql)|Select|Easy|
 |595|[Big Countries](https://leetcode.com/problems/big-countries/)|[MySQL](./595_Big_Countries.sql)|Select|Easy|
 |1148|[Article Views I](https://leetcode.com/problems/article-views-i/)|[MySQL](./1148_Article_Views_I.sql)|Select|Easy|
@@ -47,9 +47,9 @@ This repository contains my solutions to the problems in [SQL 50 Study Plan of L
 |585|[Investments in 2016](https://leetcode.com/problems/investments-in-2016/)|[MySQL](./585_Investments_in_2016.sql)|Subqueries|Medium|
 |185|[Department Top Three Salaries](https://leetcode.com/problems/department-top-three-salaries/)|[MySQL](./185_Department_Top_Three_Salaries.sql)|Subqueries|Hard|
 |1667|[Fix Names in a Table](https://leetcode.com/problems/fix-names-in-a-table/)|[MySQL](./1667_Fix_Names_in_a_Table.sql)|Advanced String Functions / Regex / Clause|Easy|
-|1527|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)|[MySQL](./1527_Patients_With_a_Condition.sql)|Advanced String Functions / Regex / ClauseEasy|
-|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./196_Delete_Duplicate_Emails.sql)|Advanced String Functions / Regex / ClauseEasy|
-|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./176_Second_Highest_Salary.sql)|Advanced String Functions / Regex / ClauseMedium|
-|1484|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MySQL](./1484_Group_Sold_Products_By_The_Date.sql)|Advanced String Functions / Regex / ClauseEasy|
-|1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[MySQL](./1327_List_the_Products_Ordered_in_a_Period.sql)|Advanced String Functions / Regex / ClauseEasy|
-|1517|[Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./1517_Find_Users_With_Valid_E-Mails.sql)|Advanced String Functions / Regex / ClauseEasy|
+|1527|[Patients With a Condition](https://leetcode.com/problems/patients-with-a-condition/)|[MySQL](./1527_Patients_With_a_Condition.sql)|Advanced String Functions / Regex / Clause|Easy|
+|196|[Delete Duplicate Emails](https://leetcode.com/problems/delete-duplicate-emails/)|[MySQL](./196_Delete_Duplicate_Emails.sql)|Advanced String Functions / Regex / Clause|Easy|
+|176|[Second Highest Salary](https://leetcode.com/problems/second-highest-salary/)|[MySQL](./176_Second_Highest_Salary.sql)|Advanced String Functions / Regex / Clause|Medium|
+|1484|[Group Sold Products By The Date](https://leetcode.com/problems/group-sold-products-by-the-date/)|[MySQL](./1484_Group_Sold_Products_By_The_Date.sql)|Advanced String Functions / Regex / Clause|Easy|
+|1327|[List the Products Ordered in a Period](https://leetcode.com/problems/list-the-products-ordered-in-a-period/)|[MySQL](./1327_List_the_Products_Ordered_in_a_Period.sql)|Advanced String Functions / Regex / Clause|Easy|
+|1517|[Find Users With Valid E-Mails](https://leetcode.com/problems/find-users-with-valid-e-mails/)|[MySQL](./1517_Find_Users_With_Valid_E-Mails.sql)|Advanced String Functions / Regex / Clause|Easy|
